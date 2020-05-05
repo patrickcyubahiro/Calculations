@@ -2,7 +2,7 @@
 #include<cstdlib>
 #include<iostream>
 #include<math.h>
-using namespace std
+using namespace std;
 int main()
 {
 // Variable declaration    
